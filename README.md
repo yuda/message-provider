@@ -9,3 +9,5 @@
 * http://pwm.kitabuat.com/
 * https://woo-wa.com/
 * https://whatsapp.silvanix.com/
+* https://www.clickatell.com/
+* https://www.twilio.com/whatsapp/pricing/us
