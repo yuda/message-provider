@@ -11,3 +11,5 @@
 * https://whatsapp.silvanix.com/
 * https://www.clickatell.com/
 * https://www.twilio.com/whatsapp/pricing/us
+* https://www.gupshup.io/developer/whatsapp-api
+* https://maxchat.id/
